@@ -2,7 +2,7 @@
 
 Modern full-stack cabin reservation platform built with Next.js, Supabase, and Tailwind CSS. Features OAuth authentication, profile management, and a complete reservation workflow including booking creation, editing, and cancellation.
 
-## ✨ Features
+## Features
 
 * OAuth authentication with Auth.js
 * Protected account and reservation routes
@@ -16,9 +16,9 @@ Modern full-stack cabin reservation platform built with Next.js, Supabase, and T
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack:
 
-### Frontend
+### Frontend:
 
 * Next.js 16
 * React 19
@@ -26,28 +26,28 @@ Modern full-stack cabin reservation platform built with Next.js, Supabase, and T
 * React Day Picker
 * Heroicons
 
-### Backend / Database
+### Backend / Database:
 
 * Supabase
 * Auth.js / NextAuth
 
-### Tooling
+### Tooling:
 
 * ESLint
 * PostCSS
 
 ---
 
-## 📸 Preview
+## Preview:
 
 Live Demo:
 [Sanctuary-Stays Live Site](https://sanctuary-stays.vercel.app?utm_source=chatgpt.com)
 
 ---
 
-## 🚀 Getting Started
+## Run on your own machine:
 
-### 1. Clone the repository
+### 1. Clone the repo
 
 ```bash
 git clone https://github.com/arthur-user/Sanctuary-Stays.git
@@ -91,22 +91,7 @@ http://localhost:3000
 
 ---
 
-## 📂 Project Structure
-
-```bash
-app/
- ├── account/
- ├── cabins/
- ├── login/
- ├── api/
-components/
-lib/
-public/
-```
-
----
-
-## 🔐 Authentication
+## Authentication
 
 Sanctuary-Stays uses OAuth authentication powered by Auth.js.
 
@@ -114,6 +99,7 @@ Supported providers:
 
 * Google
 * Discord
+* GitHub
 
 ---
 
