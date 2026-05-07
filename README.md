@@ -108,8 +108,8 @@ Supported providers:
 The application is deployed on Vercel.
 
 Production URL:
-[Sanctuary-Stays Deployment](sanctuary-stays.vercel.app)
 
+[sanctuary-stays.vercel.app]
 ---
 
 ## What I Learned
