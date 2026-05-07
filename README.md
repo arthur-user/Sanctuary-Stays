@@ -103,7 +103,7 @@ Supported providers:
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 The application is deployed on Vercel.
 
@@ -112,7 +112,7 @@ Production URL:
 
 ---
 
-## 📖 What I Learned
+## What I Learned
 
 This project helped strengthen my understanding of:
 
@@ -126,6 +126,6 @@ This project helped strengthen my understanding of:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
