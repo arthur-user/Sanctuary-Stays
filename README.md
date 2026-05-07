@@ -103,13 +103,13 @@ Supported providers:
 
 ---
 
-##  Deployment
+## Deployment
 
 The application is deployed on Vercel.
 
 Production URL:
 
-(Sanctuary Stays) [sanctuary-stays.vercel.app]
+[Sanctuary-Stays](https://sanctuary-stays.vercel.app)
 ---
 
 ## What I Learned
