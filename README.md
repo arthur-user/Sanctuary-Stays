@@ -109,7 +109,7 @@ The application is deployed on Vercel.
 
 Production URL:
 
-[sanctuary-stays.vercel.app]
+(Sanctuary Stays) [sanctuary-stays.vercel.app]
 ---
 
 ## What I Learned
