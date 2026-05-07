@@ -41,7 +41,7 @@ Modern full-stack cabin reservation platform built with Next.js, Supabase, and T
 ## Preview:
 
 Live Demo:
-[Sanctuary-Stays Live Site](https://sanctuary-stays.vercel.app?utm_source=chatgpt.com)
+[sanctuary-stays.vercel.app)
 
 ---
 
@@ -108,7 +108,7 @@ Supported providers:
 The application is deployed on Vercel.
 
 Production URL:
-[Sanctuary-Stays Deployment](https://sanctuary-stays.vercel.app?utm_source=chatgpt.com)
+[Sanctuary-Stays Deployment](sanctuary-stays.vercel.app)
 
 ---
 
