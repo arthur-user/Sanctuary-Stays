@@ -41,7 +41,7 @@ Modern full-stack cabin reservation platform built with Next.js, Supabase, and T
 ## Preview:
 
 Live Demo:
-[sanctuary-stays.vercel.app)
+[Sanctuary-Stays](https://sanctuary-stays.vercel.app)
 
 ---
 
