@@ -116,7 +116,7 @@ Production URL:
 
 This project helped strengthen my understanding of:
 
-* Strengthened my full-stack application architecture
+* Full-stack application architecture
 * Authentication flows with Auth.js
 * Server Components and Server Actions
 * Protected routing in Next.js
